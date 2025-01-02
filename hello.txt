@@ -1,0 +1,7 @@
+hello git!
+enter 'i' to switch into the insert mod
+enter 'a' to enter the insert mod with pointer from the next word
+use dd to cut and copy the current line in the control mod
+use p to paste the line that has been dd or yy
+enter : to enter the last line mod
+enter wq in the last line mod to save and exit
