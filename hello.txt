@@ -6,3 +6,6 @@ use p to paste the line that has been dd or yy
 enter : to enter the last line mod
 enter wq in the last line mod to save and exit
 "one line inserted!"
+
+this line is a change in the brach hot-fix02 which stem from the second
+commit version
